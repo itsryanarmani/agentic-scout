@@ -10,6 +10,6 @@ Keywords: social,discovery,trends,reddit,viral,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-scout
-- Core contract: https://github.com/pooriaarab/agentic-scout/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-scout
+- Core contract: https://github.com/itsryanarmani/agentic-scout/blob/main/docs/agentic-core.md
 - License: MIT

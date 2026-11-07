@@ -4,7 +4,7 @@
 [![Monthly downloads](https://img.shields.io/npm/dm/agentic-scout)](https://www.npmjs.com/package/agentic-scout)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-scout) · [Source and support](https://github.com/pooriaarab/agentic-scout)
+[Package](https://www.npmjs.com/package/agentic-scout) · [Source and support](https://github.com/itsryanarmani/agentic-scout)
 
 agentic-scout is an open-source thread discovery library for developers who research public conversations. It searches Reddit, Hacker News, and RSS feeds. Local scoring and fixed templates produce ranked threads and draft content ideas.
 
@@ -142,7 +142,7 @@ No public documentation site is configured in the repository metadata.
 
 ## Status
 
-Version 0.1.0 is an early release; interfaces can change. Report issues through [GitHub support](https://github.com/pooriaarab/agentic-scout/issues).
+Version 0.1.0 is an early release; interfaces can change. Report issues through [GitHub support](https://github.com/itsryanarmani/agentic-scout/issues).
 Public case studies are not yet published in this repository.
 Review source facts and draft disclosures before publishing content.
 
